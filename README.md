@@ -7,7 +7,7 @@
 
 ## 🚀 Especificaciones de la Build
 * **Base:** Debian 13 "Trixie" (Testing/Unstable)
-* **Kernel:** Linux 6.x optimizado
+* **Kernel:** Linux 7.x optimizado
 * **DE:** KDE Plasma 6 (Custom Ricing)
 * **Iconos:** int_nord (White/Red variant)
 * **Identidad:** Doujin Technologics Group
